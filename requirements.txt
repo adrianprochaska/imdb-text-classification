@@ -1,0 +1,11 @@
+numpy
+pandas
+black
+flake8
+pyarrow
+fsspec
+huggingface_hub
+ipykernel
+torchtext
+nltk
+scikit-learn
