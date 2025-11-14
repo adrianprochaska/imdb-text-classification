@@ -11,6 +11,10 @@ numpy
 pandas
 huggingface_hub
 
+# visualization
+seaborn
+matplotlib
+
 # ml/nlp
 torch 
 torchtext

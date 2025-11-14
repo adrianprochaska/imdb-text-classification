@@ -31,5 +31,6 @@ imdb-text-classification/
 | Model                                   | Accuracy | F1-score | Notes |
 |----------------------------------------:|:--------:|:--------:|:--------:|
 | Baseline: Logistic Regression (TF-IDF)           | 0.89     | 0.89       | max_feature=50k, bigrams, min_df=2 |
-| Baseline II: 5-Fold CV Logistic Regression (TF-IDF)           | 0.90     | 0.90       | max_feature=50k, bigrams, min_df=2 |
+| Baseline II: 5-Fold CV Logistic Regression (TF-IDF)           | 0.90     | 0.90       | max_feature=50k, bigrams, min_df=2 |^
+| Baseline III: PyTorch embedding-mean           | 0.89     | 0.89       | max_len=512, train_emb_dim=64 |
 | to be updated...                   | …        | …        |
