@@ -4,7 +4,7 @@
 
 ## Structure
 ```
-ml-imdb-sentiment/
+imdb-text-classification/
 ├─ notebooks/
 │  ├─ 00_pytorch_basics.ipynb
 │  └─ 01_imdb_baseline.ipynb
