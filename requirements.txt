@@ -1,11 +1,18 @@
-numpy
-pandas
+#dev
 black
 flake8
+tqdm
+ipykernel
+
+# data i/o
 pyarrow
 fsspec
+numpy
+pandas
 huggingface_hub
-ipykernel
+
+# ml/nlp
+torch 
 torchtext
 nltk
 scikit-learn
