@@ -28,7 +28,7 @@ imdb-text-classification/
 
 ## Results (update)
 
-| Model                                   | Accuracy | F1-score |
-|----------------------------------------:|:--------:|:--------:|
-| to be updated...       | …        | …        |
+| Model                                   | Accuracy | F1-score | Notes |
+|----------------------------------------:|:--------:|:--------:|:--------:|
+| Baseline: Logistic Regression (TF-IDF)           | 0.89     | 0.89       | max_feature=50k, bigrams, min_df=2 |
 | to be updated...                   | …        | …        |
