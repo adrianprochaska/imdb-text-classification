@@ -22,7 +22,7 @@ imdb-text-classification/
 ## How to use this repo
 1. install `requirements.txt`  
 2. run `setup.py`  
-3. get the data by executing `data_collector.py`
+3. Get the data: `python data_collector.py`
 
 ## Results (update)
 
