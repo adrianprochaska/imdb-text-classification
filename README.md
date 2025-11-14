@@ -5,6 +5,9 @@
 ## Structure
 ```
 imdb-text-classification/
+├─ data/
+│  ├─ raw/
+│  └─ processed/
 ├─ notebooks/
 │  ├─ 00_pytorch_basics.ipynb
 │  └─ 01_imdb_baseline.ipynb
