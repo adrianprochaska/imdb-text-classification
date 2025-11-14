@@ -15,6 +15,8 @@ imdb-text-classification/
 │  ├─ data.py
 │  ├─ models.py
 │  └─ train.py
+├─ data_collector.py
+├─ setup.py
 ├─ requirements.txt
 ├─ README.md
 └─ .gitignore
